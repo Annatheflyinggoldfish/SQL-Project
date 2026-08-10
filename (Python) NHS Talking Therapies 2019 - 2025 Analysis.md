@@ -33,7 +33,7 @@ NHS Talking Therapies (formerly IAPT) is England's flagship programme for treati
 - **Data standardisation with SQL**: Used DuckDB SQL queries to standardise column naming and structure across six years of data before merging into a single dataset.
 - **Geographic Data merging**: Matched 42 ICBs to ONS population estimates using prefix-based matching to handle inconsistent naming conventions across datasets.
 - **Representation ratios**: Built using England-only population denominators: 2021 Census (ethnicity) and ONS mid-year population estimates (ICB geography). Age-structure mismatch (NHS Talking Therapies mainly targets ages 16+) is flagged as a known limitation.
-- **Statistical testing**: Applied chi-square tests and correlation analysis, distinguishing between statistical significance and practical/real-world significance.
+- **Statistical testing**: Applied correlation and representation-ratio analysis to assess demographic and geographic patterns across the dataset.
 
 ---
 
