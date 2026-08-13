@@ -1,8 +1,8 @@
-# NHS Talking Therapies 2019 - 2025: National Trends, Demographic & Geographic Analysis
+# NHS Talking Therapies 2019 - 2025: National Trends, Demographic & Geographic Analysis (Preview) 
 
 **A data analysis project examining service demand, treatment outcomes, demographic representation, and geographic equity in NHS Talking Therapies (IAPT) services across England.**
 
-### Tools Used
+## Tools Used
 
 **`Python`· `pandas` · `NumPy` · `SciPy`· `Plotly`**
 
@@ -11,14 +11,19 @@
 
 NHS Talking Therapies (formerly IAPT) is England's flagship programme for treating anxiety and depression through evidence-based psychological therapies. This project analyses whether the service access and treatment outcomes are equitable across different population groups and geographic areas, using publicly available NHS Digital data.
 
-**Key Questions Explored:**
+## Key Questions
 
-- How have service demand, appointments efficiency, and treatment outcome changed over time nationally?
-- Are certain demographic groups (gender, ethnicity) over/under represented compared to the general population?
-- Does deprivation (IMD) correlate with variation in service access and/or outcomes?
-- Are there meaningful geographic disparities in service access/outcome across England's 42 Integrated Care Boards (ICBs)?
+**- How have service demand, appointments efficiency, and treatment outcome changed over time nationally?**
 
-**The analysis is structured as three linked notebooks (Welcome to download and run locally):**
+**- Are certain demographic groups (gender, ethnicity) over/under represented compared to the general population?**
+
+**- Does deprivation (IMD) correlate with variation in service access and/or outcomes?**
+
+**- Are there meaningful geographic disparities in service access/outcome across England's 42 Integrated Care Boards (ICBs)?**
+
+
+
+### The analysis is structured as three linked notebooks (Welcome to download and run locally):
 
 | Notebook | Focus | Key Techniques |
 |---|---|---|
@@ -37,7 +42,7 @@ NHS Talking Therapies (formerly IAPT) is England's flagship programme for treati
 
 ---
 
-## Sample Outputs (Previews)
+## Sample Outputs
 
 **Note: Please refer to the notebooks above for full interactive charts and complete analysis**.
 
