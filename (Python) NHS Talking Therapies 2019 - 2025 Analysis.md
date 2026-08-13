@@ -137,7 +137,7 @@ df_dep['Percentage of the Year'] = (
 
 </details>
 
-<img width="1080" height="544" alt="image" src="https://github.com/user-attachments/assets/5d87250c-26d7-4d8e-ac29-4fdead489741" />
+<img width="1112" height="547" alt="image" src="https://github.com/user-attachments/assets/cbc5a40e-8545-4dde-abbc-b82c728e6428" />
 
 
 ### **Geographic Representation Map**
